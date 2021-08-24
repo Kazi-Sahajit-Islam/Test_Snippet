@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Snippets>
 <Snippet>
-<Name label=”Log file Snippet”/>
+<Name label="Log file Snippet"/>
 <Template uri="./logfile_snippet.sas"/>
 </Snippet>
 </Snippets>
